@@ -22,7 +22,6 @@ let email = document.getElementById ("email")
 email.value ==='' 
 
 let terminos = document.getElementById ("terminos")
-terminos.value ==='' 
 
 let button = document.getElementById("regBtn")
 
